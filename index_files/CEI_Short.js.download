@@ -1,13 +1,13 @@
 ﻿
 /*!
- * JavaScript code for dropdown menu (created: January 23, 2024 12:21:59, Hash: A3D3, UID_CRC: 07B5D1C1)
+ * JavaScript code for dropdown menu (created: January 23, 2024 12:35:43, Hash: A3D3, UID_CRC: 07B5D1C1)
  * Copyright (c) 2003-2024 Dropdown Menu Generator. All rights reserved.
  * https://www.dropdownmenugenerator.com
  */
 
 
 function AddGlyphs(Path){
-cmn.RegWbFnt('MG_Icons','MG_Icons',Path+'MG_Icons','r607938056',true);
+cmn.RegWbFnt('MG_Icons','MG_Icons',Path+'MG_Icons','r84302256',true);
 };
 
 function AddCss_CEI(Path,HostURL){
